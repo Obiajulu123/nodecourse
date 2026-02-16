@@ -1,3 +1,4 @@
 
 
-console.log(process.memoryUsage().external) 
+console.log(process.memoryUsage()) 
+console.log('process.memoryUsage') 

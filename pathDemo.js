@@ -16,3 +16,4 @@ console.log(__dirname, __filename)
 const filePath2 = path.join(__dirname, 'dir1', 'test.txt')
 
 console.log(filePath2)
+console.log('hello git testing')
